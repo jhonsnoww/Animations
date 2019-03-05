@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZoomIn_out</string>
+    <string name="desc">If you use an image loading library like Picasso</string>
+</resources>
